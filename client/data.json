@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Harley-Davidson Street Bob",
+        "image": "images/harley-street-bob.jpg",
+        "price": 14999,
+        "description": "The Harley-Davidson Street Bob is a classic cruiser with a stripped-down look and a powerful engine."
+    },
+    {
+        "id": 2,
+        "name": "Honda CBR1000RR",
+        "image": "images/honda-cbr1000rr.jpg",
+        "price": 16999,
+        "description": "The Honda CBR1000RR is a high-performance sportbike with a sleek design and advanced technology."
+    },
+    {
+        "id": 3,
+        "name": "Yamaha R1",
+        "image": "images/yamaha-r1.jpg",
+        "price": 17999,
+        "description": "The Yamaha R1 is a legendary supersport bike known for its aggressive styling and powerful engine."
+    }
+]
